@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
     x = [3, 1, 9, 3.2, 2, 4, 8, 6, 7, 5, 8]
     print()
-    print(f'selectionsort {selection(x)}')
+    print(f'selectionsort: {selection(x)}')
 
 
 
